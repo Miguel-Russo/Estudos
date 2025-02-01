@@ -1,4 +1,4 @@
-# 🚀 Portfólio Acadêmico - Atividades e Projetos  
+# 🚀 Portfólio de Estudos - Exercícios e Projetos  
 
 Bem-vindo ao meu repositório! Aqui você encontrará todas as atividades e projetos que desenvolvi ao longo da minha jornada autodidata, organizados por tema.
 
